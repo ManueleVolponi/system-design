@@ -1,4 +1,4 @@
-# system-design
-System design training
+# system
+System Architecture training
 
-![image](https://github.com/user-attachments/assets/3f7bc8f9-c6da-4720-aa0e-fd8c42b53de5)
+![System Design (2)](https://github.com/user-attachments/assets/4ee001f3-b260-4632-8e3c-b2519302acec)
